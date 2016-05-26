@@ -1,0 +1,25 @@
+{
+  "name": "whatsap-nuevo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JuanaQuispeM-2016@github.com/JuanaQuispeM-2016/whatsap-nuevo.git"
+  },
+  "author": "JuanaQuispe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanaQuispeM-2016/whatsap-nuevo/issues"
+  },
+  "homepage": "https://github.com/JuanaQuispeM-2016/whatsap-nuevo#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
